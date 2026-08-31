@@ -1,0 +1,29 @@
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\bin\Debug\net6.0\StrategyPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\bin\Debug\net6.0\StrategyPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\refint\StrategyPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.exe
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.deps.json
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.dll
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\refint\StrategyPattern.dll
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\nikke\Downloads\school lj4\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
