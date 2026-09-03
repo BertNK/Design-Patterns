@@ -27,7 +27,15 @@ namespace StrategyPattern
         {
             duck.Display();
             duck.PerformQuack();
-            duck.PerformFly();
+
+            if (duck is RobotDuck)
+            {
+                Console.WriteLine("Robot Duck is flying with a jetpack!");
+            }   else
+                {
+                    duck.PerformFly();
+                }
+            
             duck.PerformSwim();
         }
     }
