@@ -1,4 +1,4 @@
-﻿using StrategyPattern.Ducks;
+using StrategyPattern.Ducks;
 using StrategyPattern.Interfaces.FlyBehavior;
 
 namespace StrategyPattern
@@ -8,34 +8,27 @@ namespace StrategyPattern
         static void Main(string[] args)
         {
             Duck mallardDuck = new MallardDuck();
-            mallardDuck.Display();
-            mallardDuck.PerformQuack();
-            mallardDuck.PerformFly();
-            mallardDuck.PerformSwim();
+            performDuckActions(mallardDuck);
 
             Duck redheadDuck = new RedheadDuck();
-            redheadDuck.Display();
-            redheadDuck.PerformQuack();
-            redheadDuck.PerformFly();
-            redheadDuck.PerformSwim();
+            performDuckActions(redheadDuck);
 
             Duck decoyDuck = new DecoyDuck();
-            decoyDuck.Display();
-            decoyDuck.PerformQuack();
-            decoyDuck.PerformFly();
-            decoyDuck.PerformSwim();
+            performDuckActions(decoyDuck);
 
             Duck rubberDuck = new RubberDuck();
-            rubberDuck.Display();
-            rubberDuck.PerformQuack();
-            rubberDuck.PerformFly();
-            rubberDuck.PerformSwim();
+            performDuckActions(rubberDuck);
 
             Duck robotDuck = new RobotDuck();
-            robotDuck.Display();
-            robotDuck.PerformQuack();
-            robotDuck.PerformFly();
-            robotDuck.PerformSwim();
+            performDuckActions(robotDuck);
+        }
+
+        public static void performDuckActions(Duck duck)
+        {
+            duck.Display();
+            duck.PerformQuack();
+            duck.PerformFly();
+            duck.PerformSwim();
         }
     }
 }
