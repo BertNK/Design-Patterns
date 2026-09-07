@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fl86eWFOlI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
