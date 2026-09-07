@@ -1,0 +1,15 @@
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.exe
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.deps.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.runtimeconfig.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.pdb
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.sourcelink.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\refint\ObserverPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {}
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "projectUniqueName": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
         "projectName": "ObserverPattern",
-        "projectPath": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "projectPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\nikke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\002 - ObserverPattern\\ObserverPattern\\obj\\",
+        "outputPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\002 - ObserverPattern\\ObserverPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikke\\AppData\\Roaming\\NuGet\\NuGet.Config"

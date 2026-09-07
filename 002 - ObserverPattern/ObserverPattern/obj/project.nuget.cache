@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUGm+6YuiTQ=",
+  "dgSpecHash": "akYaAVlAT9c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+  "projectFilePath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\002 - ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikke\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
     "C:\\Users\\nikke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",

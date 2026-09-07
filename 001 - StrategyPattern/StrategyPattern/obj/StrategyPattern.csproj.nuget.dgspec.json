@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {}
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\nikke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikke\\Downloads\\school lj4\\DesignPatterns\\001 - StrategyPattern\\StrategyPattern\\obj\\",
+        "outputPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikke\\AppData\\Roaming\\NuGet\\NuGet.Config"
