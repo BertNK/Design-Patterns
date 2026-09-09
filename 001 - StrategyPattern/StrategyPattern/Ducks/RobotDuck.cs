@@ -11,12 +11,6 @@ namespace StrategyPattern.Ducks
 {
     internal class RobotDuck : Duck
     {
-        public RobotDuck()
-        {
-            quackBehavior = new RegularQuack();
-            flyBehavior = new FlyNoWay();
-            swimBehavior = new SwimNoWay();
-        }
         public override void Display()
         {
             Console.WriteLine("I'm a Robot Duck");

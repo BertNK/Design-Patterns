@@ -1,4 +1,6 @@
 ﻿using StrategyPattern.Ducks;
+using StrategyPattern.Interfaces.QuackBehavior;
+using StrategyPattern.Interfaces.SwimBehavior;
 using StrategyPattern.Interfaces.FlyBehavior;
 
 namespace StrategyPattern
@@ -7,36 +9,48 @@ namespace StrategyPattern
     {
         static void Main(string[] args)
         {
+            // mallardduck
             Duck mallardDuck = new MallardDuck();
-            performDuckActions(mallardDuck);
+            mallardDuck.SetQuackBehavior(new Squeak());
+            mallardDuck.SetSwimBehavior(new SwimNoWay());
+            mallardDuck.SetFlyBehavior(new FlyNoWay());
+            PerformDuckActions(mallardDuck);
 
+            // redheadduck
             Duck redheadDuck = new RedheadDuck();
-            performDuckActions(redheadDuck);
+            redheadDuck.SetQuackBehavior(new RegularQuack());
+            redheadDuck.SetFlyBehavior(new FlyWithWings());
+            redheadDuck.SetSwimBehavior(new SwimWithFin());
+            PerformDuckActions(redheadDuck);
 
+            // decoyduck 
             Duck decoyDuck = new DecoyDuck();
-            performDuckActions(decoyDuck);
+            decoyDuck.SetQuackBehavior(new MuteQuack());
+            decoyDuck.SetFlyBehavior(new FlyNoWay());
+            decoyDuck.SetSwimBehavior(new Floating());
+            PerformDuckActions(decoyDuck);
 
+            // rubberduck
             Duck rubberDuck = new RubberDuck();
-            performDuckActions(rubberDuck);
+            rubberDuck.SetQuackBehavior(new Squeak());
+            rubberDuck.SetFlyBehavior(new FlyNoWay());
+            rubberDuck.SetSwimBehavior(new Floating());
+            PerformDuckActions(rubberDuck);
 
+            // robotduck
             Duck robotDuck = new RobotDuck();
-            performDuckActions(robotDuck);
+            robotDuck.SetQuackBehavior(new RobotQuack());
+            robotDuck.SetFlyBehavior(new FlyWithJetpack());
+            robotDuck.SetSwimBehavior(new SwimNoWay());
+            PerformDuckActions(robotDuck);
         }
 
-        public static void performDuckActions(Duck duck)
+        public static void PerformDuckActions(Duck duck)
         {
             duck.Display();
             duck.PerformQuack();
-
-            if (duck is RobotDuck)
-            {
-                Console.WriteLine("Robot Duck is flying with a jetpack!");
-            }   else
-                {
-                    duck.PerformFly();
-                }
-            
             duck.PerformSwim();
+            duck.PerformFly();
         }
     }
 }

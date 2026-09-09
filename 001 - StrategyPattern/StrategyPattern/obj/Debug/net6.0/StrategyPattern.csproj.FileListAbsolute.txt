@@ -41,3 +41,18 @@ C:\Users\nikke\Downloads\school lj4\DesignPatterns\001 - StrategyPattern\Strateg
 C:\Users\nikke\Downloads\school lj4\DesignPatterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
 C:\Users\nikke\Downloads\school lj4\DesignPatterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
 C:\Users\nikke\Downloads\school lj4\DesignPatterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.exe
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.deps.json
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.sourcelink.json
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\refint\StrategyPattern.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
+c:\Users\nikke\Documents\GitHub\Design-Patterns\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
