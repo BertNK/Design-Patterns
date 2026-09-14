@@ -10,13 +10,12 @@ namespace DecoratorPattern.Beverages
     {
         TALL,
         GRANDE,
-        VENDI
+        VENTI
     }
     internal abstract class Beverage
     {
         public Size Size { get { return size; } set { size = value; } }
         private Size size;
-
         protected string description = "Unknown";
         protected Beverage baseBeverage = null;
         
