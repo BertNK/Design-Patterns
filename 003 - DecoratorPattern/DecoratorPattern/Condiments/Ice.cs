@@ -16,7 +16,7 @@ namespace DecoratorPattern.Condiments
 
         public override double cost()
         {
-            return 0.05 + baseBeverage.cost();
+            return PriceBySize(0.05, 0.10, 0.15) + baseBeverage.cost();
         }
 
         public override string GetDescription()
