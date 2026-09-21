@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj": {}
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj": {
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
         "projectName": "DecoratorPattern",
-        "projectPath": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\nikke\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\obj\\",
+        "outputPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\003 - DecoratorPattern\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikke\\AppData\\Roaming\\NuGet\\NuGet.Config"

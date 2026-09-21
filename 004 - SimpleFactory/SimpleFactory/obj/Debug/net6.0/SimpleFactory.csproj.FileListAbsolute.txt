@@ -1,0 +1,15 @@
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.sourcelink.json
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+c:\Users\nikke\Documents\GitHub\Design-Patterns\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll

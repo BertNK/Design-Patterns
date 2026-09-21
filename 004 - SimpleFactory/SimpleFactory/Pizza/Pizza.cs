@@ -10,22 +10,22 @@ namespace SimpleFactory
     {
         internal void Bake()
         {
-            Console.WriteLine("Baking the pizza");
+            Console.WriteLine("Baking the " + this.GetType().Name);
         }
 
         internal void Box()
         {
-            Console.WriteLine("Boxing the pizza");
+            Console.WriteLine("Boxing the " + this.GetType().Name);
         }
 
         internal void Cut()
         {
-            Console.WriteLine("Cutting the pizza into squares");
+            Console.WriteLine("Cutting the " + this.GetType().Name);
         }
 
         internal void Prepare()
         {
-            Console.WriteLine("Preparing the pizza");
+            Console.WriteLine("Preparing the " + this.GetType().Name);
         }
     }
 }

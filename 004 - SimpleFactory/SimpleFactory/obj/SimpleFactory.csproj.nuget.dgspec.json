@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj": {}
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj": {
+    "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj",
+        "projectUniqueName": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj",
         "projectName": "SimpleFactory",
-        "projectPath": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj",
+        "projectPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\SimpleFactory.csproj",
         "packagesPath": "C:\\Users\\nikke\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\obj\\",
+        "outputPath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\004 - SimpleFactory\\SimpleFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikke\\AppData\\Roaming\\NuGet\\NuGet.Config"
