@@ -7,28 +7,24 @@ using System.Threading.Tasks;
 
 namespace ObserverPattern.Displays
 {
-    internal class ForecastDisplay : Observer, DisplayElement
+    internal class ForecastDisplay : WeatherDisplay
     {
         private float temperature;
         private float humidity;
-        private Subject weatherData;
-        public ForecastDisplay(Subject weatherData) 
-        { 
-            // Set the field and register itself with the weatherdata subject
-            this.weatherData = weatherData;
-            this.weatherData.RegisterObserver(this);
-        }
-        public void Update(float temp, float humidity, float pressure)
+
+        public ForecastDisplay(Subject weatherData)
+            : base(weatherData)
         {
-            // Set the correct fields with the relevant parameters
-            temperature = temp;
-            this.humidity = humidity;
-            Display();
         }
 
-        public void Display()
+        protected override void UpdateData(float temp, float humidity, float pressure)
         {
-            // Print a forecast message based on the current temperature and humidity
+            temperature = temp;
+            this.humidity = humidity;
+        }
+
+        public override void Display()
+        {
             if (temperature > 80 && humidity < 40)
             {
                 Console.WriteLine("Forecast: Its going to be hot and dry today.");

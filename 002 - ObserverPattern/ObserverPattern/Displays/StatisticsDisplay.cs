@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 
 namespace ObserverPattern.Displays
 {
-    internal class StatisticsDisplay : Observer, DisplayElement
+    internal class StatisticsDisplay : WeatherDisplay
     {
         private float sumTemperature = 0;
         private float maxTemp = 0;
         private float minTemp = 200; // hoge value zodat hij overschrijft bij de eerste meting
         private int countUpdated = 0;
-        private Subject weatherData;
-        public StatisticsDisplay(Subject weatherData) 
-        { 
-            this.weatherData = weatherData;
-            this.weatherData.RegisterObserver(this);
+
+        public StatisticsDisplay(Subject weatherData)
+            : base(weatherData)
+        {
         }
-        public void Update(float temp, float humidity, float pressure)
+
+        protected override void UpdateData(float temp, float humidity, float pressure)
         {
             sumTemperature += temp;
             countUpdated++;
@@ -33,11 +33,9 @@ namespace ObserverPattern.Displays
             {
                 minTemp = temp;
             }
-
-            Display();
         }
 
-        public void Display()
+        public override void Display()
         {
             Console.WriteLine($"Avg/Max/Min temperature = {sumTemperature / countUpdated}/{maxTemp}/{minTemp}");
         }
