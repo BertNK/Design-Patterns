@@ -35,16 +35,6 @@ namespace DecoratorPattern.Beverages
             return description;
         }
 
-        protected double PriceBySize(double tall, double grande, double venti)
-        {
-            return Size switch
-            {
-                Size.GRANDE => grande,
-                Size.VENTI => venti,
-                _ => tall
-            };
-        }
-
         public abstract double cost();
     }
 }

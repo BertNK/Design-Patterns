@@ -24,11 +24,15 @@ namespace DecoratorPattern.Beverages
         }
         public override double cost()
         {
-            if (baseBeverage != null)
+            double price = Size switch
             {
-                return 0.50 + baseBeverage.cost();
-            }
-            return 0.50;
+                Size.TALL => 0.50,
+                Size.GRANDE => 0.65,
+                Size.VENTI => 0.80,
+                _ => throw new ArgumentOutOfRangeException(nameof(Size), Size, "Unsupported beverage size.")
+            };
+
+            return price + (baseBeverage == null ? 0 : baseBeverage.cost());
         }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StrategyPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+241e5de298cdf9e847990c487015f6777b830a28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdffcd8ff47614c752189161fcb4f1c487f3a6f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("StrategyPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StrategyPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

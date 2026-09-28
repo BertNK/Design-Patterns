@@ -16,7 +16,14 @@ namespace DecoratorPattern.Condiments
 
         public override double cost()
         {
-            return PriceBySize(0.00, 0.00, 0.00) + baseBeverage.cost();
+            double price = Size switch
+            {
+                Size.TALL => 1.00,
+                Size.GRANDE => 1.25,
+                Size.VENTI => 1.50,
+                _ => throw new ArgumentOutOfRangeException(nameof(Size), Size, "Unsupported beverage size.")
+            };
+            return price + baseBeverage.cost();
         }
 
         public override string GetDescription()
