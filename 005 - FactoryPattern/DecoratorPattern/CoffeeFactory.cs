@@ -40,11 +40,34 @@ namespace DecoratorPattern
         IrishCoffee
     }
 
-    internal static class CoffeeFactory
+    internal abstract class CoffeeFactory
     {
-        public static Beverage CreateCoffee(
+        public Beverage OrderDrink(
             CoffeeType coffeeType,
             Size size = Size.TALL)
+        {
+            Beverage coffee = CreateCoffee(coffeeType);
+            coffee.Size = size;
+            PrintBeverage(coffee);
+            return coffee;
+        }
+
+        protected abstract Beverage CreateCoffee(CoffeeType coffeeType);
+
+        private static void PrintBeverage(Beverage beverage)
+        {
+            Console.WriteLine(
+                beverage.GetDescription()
+                + " ("
+                + beverage.Size
+                + ") €"
+                + beverage.cost().ToString("0.00"));
+        }
+    }
+
+    internal sealed class CoffeeMenuFactory : CoffeeFactory
+    {
+        protected override Beverage CreateCoffee(CoffeeType coffeeType)
         {
             Beverage coffee;
 
@@ -233,9 +256,7 @@ namespace DecoratorPattern
                         "This coffee type is not available.");
             }
 
-            coffee.Size = size;
             return coffee;
         }
     }
 }
-

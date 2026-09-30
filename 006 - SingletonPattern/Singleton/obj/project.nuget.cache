@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jx5lpJz/otI=",
+  "dgSpecHash": "b6hWYel/GM4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\006 - SingletonPattern\\Singleton\\SingletonPattern.csproj",
+  "projectFilePath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\006 - SingletonPattern\\Singleton\\SingletonPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\nikke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
