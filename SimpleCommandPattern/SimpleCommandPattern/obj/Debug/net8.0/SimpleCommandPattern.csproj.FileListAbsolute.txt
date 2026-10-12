@@ -1,0 +1,15 @@
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.AssemblyInfoInputs.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.AssemblyInfo.cs
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.sourcelink.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\bin\Debug\net8.0\SimpleCommandPattern.exe
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\bin\Debug\net8.0\SimpleCommandPattern.deps.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\bin\Debug\net8.0\SimpleCommandPattern.runtimeconfig.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\bin\Debug\net8.0\SimpleCommandPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\bin\Debug\net8.0\SimpleCommandPattern.pdb
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\refint\SimpleCommandPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.pdb
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\SimpleCommandPattern.genruntimeconfig.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net8.0\ref\SimpleCommandPattern.dll

@@ -1,0 +1,37 @@
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\refint\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\SimpleCommandPattern\obj\Debug\net6.0\ref\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\bin\Debug\net6.0\SimpleCommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\refint\SimpleCommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\SimpleCommandPattern\obj\Debug\net6.0\ref\SimpleCommandPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.AssemblyInfoInputs.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.AssemblyInfo.cs
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.sourcelink.json
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\refint\SimpleCommandPattern.dll
+C:\Users\nikke\Documents\GitHub\Design-Patterns\SimpleCommandPattern\SimpleCommandPattern\obj\Debug\net6.0\SimpleCommandPattern.pdb
