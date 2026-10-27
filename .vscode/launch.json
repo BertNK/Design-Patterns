@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "TemplateMethodPattern",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/010 - TemplateMethodPattern/TemplateMethodPattern/bin/Debug/net8.0/TemplateMethodPattern.dll",
+            "cwd": "${workspaceFolder}/010 - TemplateMethodPattern/TemplateMethodPattern",
+            "runtimeExecutable": "C:/Program Files/dotnet/dotnet.exe",
+            "args": [],
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}

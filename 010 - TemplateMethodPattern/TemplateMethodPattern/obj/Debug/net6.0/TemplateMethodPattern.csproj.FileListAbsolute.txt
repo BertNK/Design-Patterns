@@ -1,0 +1,45 @@
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\refint\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\ref\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\refint\TemplateMethodPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\ref\TemplateMethodPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.exe
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.deps.json
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.runtimeconfig.json
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.pdb
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.AssemblyReference.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfo.cs
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\refint\TemplateMethodPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.pdb
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.genruntimeconfig.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\ref\TemplateMethodPattern.dll

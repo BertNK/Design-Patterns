@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qCiV0Q7aGQg=",
+  "dgSpecHash": "5UfTXZ3ocIU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikke\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "C:\\Users\\bert\\Documents\\GitHub\\Design-Patterns\\001 - StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\nikke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+    "C:\\Users\\bert\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\bert\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\bert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\bert\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
