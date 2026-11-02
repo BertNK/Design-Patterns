@@ -2,15 +2,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "TemplateMethodPattern",
+            "name": "SingletonPattern (006)",
             "type": "coreclr",
             "request": "launch",
-            "program": "${workspaceFolder}/010 - TemplateMethodPattern/TemplateMethodPattern/bin/Debug/net8.0/TemplateMethodPattern.dll",
-            "cwd": "${workspaceFolder}/010 - TemplateMethodPattern/TemplateMethodPattern",
+            "preLaunchTask": "build SingletonPattern (006)",
+            "program": "${workspaceFolder}/006 - SingletonPattern/Singleton/bin/Debug/net8.0/SingletonPattern.dll",
+            "cwd": "${workspaceFolder}/006 - SingletonPattern/Singleton",
             "runtimeExecutable": "C:/Program Files/dotnet/dotnet.exe",
             "args": [],
             "console": "integratedTerminal",
             "stopAtEntry": false
-        }
+        },
     ]
 }

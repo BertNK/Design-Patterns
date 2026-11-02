@@ -2,7 +2,7 @@
 {
     internal class ChocolateBoiler
     {
-        private static ChocolateBoiler instance;
+        private static volatile ChocolateBoiler? instance;
         private static readonly object lockObject = new object();
 
         private bool empty;
@@ -19,15 +19,21 @@
 
         public static ChocolateBoiler GetInstance()
         {
-            lock (lockObject)
+            var current = instance;
+            if (current == null)
             {
-                if (instance == null)
+                lock (lockObject)
                 {
-                    instance = new ChocolateBoiler();
+                    current = instance;
+                    if (current == null)
+                    {
+                        current = new ChocolateBoiler();
+                        instance = current;
+                    }
                 }
-
-                return instance;
             }
+
+            return current;
         }
 
         public void fill()
